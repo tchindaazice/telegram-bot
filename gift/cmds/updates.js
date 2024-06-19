@@ -94,7 +94,7 @@ function _0x1ede() {
         'nk\x20Below\x20f',
         't\x20repo',
         'n\x20our\x20What',
-        '\x0a\x0a𝗚𝗶𝗳𝘁𝗲𝗱-𝗠',
+        '\x0a\x0a𝑻𝑲-𝗠',
         'ily\x20Update',
         'so\x20provide',
         'https://yo',
